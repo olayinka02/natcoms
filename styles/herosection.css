@@ -1,0 +1,58 @@
+.indicatedbtn{
+ 
+    width:1.3rem !important; 
+    height:1.3rem !important;
+    border-radius:100% !important;
+}
+.carousel-caption{
+    margin-bottom: 20rem;
+}
+.carousel-inner{
+    height:75vh;
+}
+
+
+
+@media (min-width: 576px) { 
+
+    .carousel-caption{
+        margin-bottom: 20rem;
+    }
+    
+    
+
+}
+
+
+@media (min-width: 768px) { 
+    .carousel-caption{
+        margin-bottom: 6rem;
+    }
+    .carousel-inner{
+        height:100vh;
+    }
+    
+    
+  
+}
+
+
+@media (min-width: 992px) { 
+   
+    .carousel-caption{
+        margin-bottom: 6rem;
+    }
+    
+ 
+   
+}
+
+
+@media (min-width: 1200px) { 
+    .carousel-caption{
+        margin-bottom: 6rem;
+    }
+    
+ 
+}
+

@@ -79,6 +79,7 @@
     background-color: #ffff;
     padding-left:3%;
     padding-right:3%;
+    height:auto;
 
   }
   .navlogo{
@@ -119,6 +120,15 @@
     .callingnav{
         display:none;
     }
+
+    .secondnav{
+      background-color: #ffff;
+      padding-left:3%;
+      padding-right:3%;
+      height:4.4rem;
+  
+    }
+    
   
     
  }
