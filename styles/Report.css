@@ -1,0 +1,62 @@
+.reportlanding{
+    padding-left:6%;
+    padding-right:6%;
+    margin-top:6rem;
+    margin-bottom:6rem;
+}
+.Report{
+   
+    padding-top:2rem;
+    padding-bottom:2rem;
+    padding-left:0.5rem;
+    color: white;
+    border-radius:0.6rem;
+
+}
+.reporttext{
+    font-size:0.8rem;
+    font-weight: 400;
+    line-height: 152.19%;
+}
+
+@media (min-width: 576px) { 
+
+}
+
+
+@media (min-width: 768px) { 
+  
+    .reportlanding{
+        padding-left:4%;
+        padding-right:4%;
+        margin-top:6rem;
+        margin-bottom:6rem;
+    }
+    .Report{
+   
+        padding-top:2rem;
+        padding-bottom:2rem;
+        padding-left:1.5rem;
+        color: white;
+        border-radius:0.6rem;
+    
+    }
+    
+  
+}
+
+
+@media (min-width: 992px) { 
+   
+  
+ 
+   
+}
+
+
+@media (min-width: 1200px) { 
+  
+    
+ 
+}
+
