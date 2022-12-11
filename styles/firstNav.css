@@ -38,7 +38,7 @@
     width: 30px;
     height: 10px;
     position: relative;
-    margin: 20px auto;
+    margin-bottom:1rem;
 
    
     -webkit-transform: rotate(0deg);
