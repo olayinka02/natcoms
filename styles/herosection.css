@@ -5,7 +5,8 @@
     border-radius:100% !important;
 }
 .carousel-caption{
-    margin-bottom: 30%;
+    top:20%;
+    vertical-align: middle;
 }
 .carousel-inner{
     height:90vh;
@@ -16,7 +17,8 @@
 @media (min-width: 576px) { 
 
     .carousel-caption{
-        margin-bottom: 30%;
+      
+        vertical-align: middle;
     }
     
     
@@ -26,7 +28,8 @@
 
 @media (min-width: 768px) { 
     .carousel-caption{
-        margin-bottom: 20%;
+       
+        vertical-align: middle;
     }
     .carousel-inner{
         height:100vh;
@@ -40,7 +43,8 @@
 @media (min-width: 992px) { 
    
     .carousel-caption{
-        margin-bottom: 20%;
+       
+        vertical-align: middle;
     }
     
  
@@ -50,7 +54,8 @@
 
 @media (min-width: 1200px) { 
     .carousel-caption{
-        margin-bottom: 9%;
+     
+        vertical-align: middle;
     }
     
  
