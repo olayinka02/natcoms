@@ -80,7 +80,7 @@
     box-shadow: 0px 4px 27px rgba(0, 0, 0, 0.08);
     padding-left:3%;
     padding-right:3%;
-    height:auto;
+    height:4.5rem;
 
   }
   .navlogo{
@@ -99,6 +99,9 @@
 #text{
   display:none;
 }
+.generallogo{
+  margin-top:-0.5rem;
+}
 
 @media (min-width: 576px) { 
 
@@ -113,6 +116,10 @@
   #text{
     display:inline;
   }
+  .generallogo{
+    margin-top:0rem;
+  }
+  
     
    
  }
