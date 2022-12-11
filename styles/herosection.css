@@ -5,7 +5,7 @@
     border-radius:100% !important;
 }
 .carousel-caption{
-    margin-bottom: 55%;
+    margin-bottom: 60%;
 }
 .carousel-inner{
     height:80vh;
@@ -50,7 +50,7 @@
 
 @media (min-width: 1200px) { 
     .carousel-caption{
-        margin-bottom: 20%;
+        margin-bottom: 9%;
     }
     
  
