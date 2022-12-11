@@ -1,0 +1,20 @@
+.footer{
+    background-color:#353434;
+    padding-left:5%;
+    padding-right:5%;
+    padding-top:2.5rem;
+    padding-bottom:0.5rem;
+}
+
+.footer-text{
+
+
+
+font-size: 0.7rem;
+line-height: 168%;
+color:white;
+}
+
+.resources-link{
+    margin-bottom:0.5rem;
+}

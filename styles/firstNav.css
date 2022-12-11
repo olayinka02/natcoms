@@ -12,6 +12,11 @@
     font-size:0.8rem;
 }
 
+.active{
+    color: #EF1C22 !important;
+    font-size:0.8rem;
+}
+
 .navchildren:hover{
     color: #EF1C22;
     font-size:0.8rem;
